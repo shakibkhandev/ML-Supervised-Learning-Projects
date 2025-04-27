@@ -50,13 +50,13 @@ Welcome to the **Machine Learning Projects Collection**! This repository contain
    ```
 2. **(Recommended) Create a virtual environment:**
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   uv venv
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 3. **Install dependencies:**
 
    ```bash
-   pip install -r requirements.txt
+   uv pip install -r requirements.txt
    ```
 
    _If `requirements.txt` is not present, see the [Requirements](#requirements) section below for the list of packages to install._
