@@ -45,8 +45,8 @@ Welcome to the **Machine Learning Projects Collection**! This repository contain
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ml-projects-collection.git
-   cd ml-projects-collection
+   git clone https://github.com/shakibkhandev/ml-projects.git
+   cd ml-projects
    ```
 2. **(Recommended) Create a virtual environment:**
    ```bash
@@ -61,9 +61,12 @@ Welcome to the **Machine Learning Projects Collection**! This repository contain
 
    _If `requirements.txt` is not present, see the [Requirements](#requirements) section below for the list of packages to install._
 
-4. **Start Jupyter Notebook:**
+4. **Start Jupyter Notebook or Lab:**
    ```bash
-   jupyter notebook
+   jupyter-lab
+   ```
+   ```bash
+   jupyter-notebook
    ```
 
 ---
